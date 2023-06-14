@@ -1,7 +1,7 @@
 ﻿# pure-ts-slider
 
 <h2>🧰 - Scope of work</h2>
-<p><strong>Implement slider with CSS (SCSS) and Javascript</strong></p>
+<p><strong>Implement slider with CSS (SCSS) and Javascript (Typescript)</strong></p>
 <p>The slider takes some parameters at initialization and returns an instance</p>
 <p>When the slider reaches the last slide, it exits</p>
 
