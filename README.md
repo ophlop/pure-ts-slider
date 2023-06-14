@@ -6,10 +6,6 @@
 <p>When the slider reaches the last slide, it exits</p>
 
 <h2>🛠 -Project setup</h2>
-<h3>// Project setup</h3>
-<pre><code>
-npm i
-</code></pre>
 
 <h3>// Project setup</h3>
 <pre><code>
